@@ -1,6 +1,6 @@
 # Parallel Molecular Dynamics
 
-One of the most frequent applications for high performance computing is the area of molecular dynamics, a study of movement and interaction of molecules by solving the classical equations of motion for a set of molecules. The interactions of a collection of atoms can be modelled by using force functions derived from potential energy functions e.g. the Lennard-Jones potential. This project considers molecular dynamics on a 2D torus, using a velocity Verlet numerical integration scheme. There is a serial (`md_serial.cc`) implementation and two parallel (`pmd_cell_1.cc` and `pmd_cell_2.cc`) implementations, and for further details, see **Name of Report**.
+One of the most frequent applications for high performance computing is the area of molecular dynamics, a study of movement and interaction of molecules by solving the classical equations of motion for a set of molecules. The interactions of a collection of atoms can be modelled by using force functions derived from potential energy functions e.g. the Lennard-Jones potential. This project considers molecular dynamics on a 2D torus, using a velocity Verlet numerical integration scheme. There is a serial (`md_serial.cc`) implementation and two parallel (`pmd_cell_1.cc` and `pmd_cell_2.cc`) implementations, and for further details, see **Report.pdf**.
 
 ## Getting Started
 
